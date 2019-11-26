@@ -1,0 +1,8 @@
+Sau khi cài thư viện thì chạy file "ChangeBackground.py"
+
+
+Chú ý thay đổi chút xíu dòng code cuối: 
+	segment(dlab, 'CS06.jpg', 'CS03.jpg', show_orig=False)
+ với CS06.jpg thay bằng tên ảnh muốn ghép
+ với CS03.jpg thay bằng tên ảnh nền
+Mình có ví dụ bằng 2 ảnh mẫu

@@ -1,0 +1,8 @@
+Thư viện cài như cách bình thường: 
+	pip3 install ......
+	VD: pip3 install numpy
+
+Nhưng với thư viện "torch" và "torchvision" nếu không cài được như cách thông thường thì làm các bước sau:
+	B1: Mở Command Prompt
+	B2: Gõ dòng lệnh sau "pip install torch==1.2.0 torchvision==0.4.0 -f https://download.pytorch.org/whl/torch_stable.html" sau đó chờ cài đặt.
+	B3: Vào Pycharm hoặc Python chạy file "ChangeBackground.py" và chờ tải.
